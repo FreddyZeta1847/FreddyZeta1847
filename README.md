@@ -1,4 +1,6 @@
 ## Hi there 👋
+# I'm Federico Santini, a Software Engineering student at Politecnico di Milano, passionate about AI, robotics, and cybersecurity. ⚡
+
 
 <!--
 **FreddyZeta1847/FreddyZeta1847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
