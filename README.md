@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Federico Santini, a Software Engineering student at Politecnico di Milano, passionate about AI, robotics, and cybersecurity. ⚡
+I'm Federico Santini, a Software Engineering student at Politecnico di Milano, passionate about AI, robotics, and cybersecurity. ⚡
 
 
 <!--
