@@ -1,18 +1,35 @@
 ## Hi there 👋
-I'm Federico Santini, a Software Engineering student at Politecnico di Milano, passionate about AI, robotics, and cybersecurity. ⚡
 
+I'm **Federico Santini**, a Computer Engineering student at Politecnico di Milano,
+passionate about AI, Agentic Systems, and Robotics.
 
-<!--
-**FreddyZeta1847/FreddyZeta1847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**Languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**AI / ML**
+
+![LLM](https://img.shields.io/badge/LLM-8B5CF6?style=flat&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6D28D9?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-10B981?style=flat&logoColor=white)
+![TTS/STT](https://img.shields.io/badge/TTS/STT-F59E0B?style=flat&logoColor=white)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-EC4899?style=flat&logoColor=white)
+
+**Frameworks & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
+
+---
+
+🔭 Currently building **agentic AI pipelines** and exploring multimodal RAG · 🎮 Game dev with Godot in my spare time
