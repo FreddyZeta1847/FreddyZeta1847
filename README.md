@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Federico Santini**, a Computer Engineering student at Politecnico di Milano,
-passionate about AI, Agentic Systems, and Robotics.
+passionate about AI, Agentic Systems, Robotics and Videogames.
 
 ---
 
