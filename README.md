@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://my-portfolio-ai.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=Computer+Engineering+%40+Politecnico+di+Milano;Building+AI+agents+that+actually+ship;Voice+assistants%2C+computer+vision%2C+LLM+games;Currently%3A+Blueprint+for+Claude+Code" alt="Computer Engineering @ Politecnico di Milano · building AI agents" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=Computer+Engineering+%40+Politecnico+di+Milano;Building+AI+agents+that+actually+ship;Voice+assistants%2C+computer+vision%2C+LLM+games;Currently%3A+Developing+Azure+applications" alt="Computer Engineering @ Politecnico di Milano · building AI agents" />
   </a>
 </p>
 
